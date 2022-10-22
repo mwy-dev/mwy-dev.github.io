@@ -1,3 +1,3 @@
 # mwy-dev.github.io
 
-This is webpage about me.
+This is webpage about my profile.
